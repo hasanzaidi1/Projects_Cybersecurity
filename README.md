@@ -10,12 +10,7 @@ This repository contains cybersecurity software projects implemented in Rust and
   - [Features](#features)
   - [Usage](#usage)
 
-- [Project 2: Spotting The Hacker Software](#project-2-spotting-the-hacker-software)
-  - [Description](#description-1)
-  - [Features](#features-1)
-  - [Usage](#usage-1)
-  - [Building](#building-1)
-  - [Contributing](#contributing-1)
+
 
 ## Project 1: Securing The Message Software
 
@@ -48,32 +43,8 @@ To use this program, ensure you have Rust and Cargo installed. Simply clone the 
 
 
 
-## Project 2: Spotting The Hacker Software
-
-### Description
-
-This project implements cybersecurity software using C. Briefly describe the project and its purpose.
-
-### Features
-
-List the features of the software, such as functionalities, capabilities, and technologies used.
-
-### Usage
-
-Explain how to use the software, including examples and any required parameters.
-
-### Building
-
-Provide instructions on how to build the software, including any dependencies and build commands.
-
-### Contributing
-
-Explain how others can contribute to the project, such as reporting issues or submitting pull requests.
 
 
 
 ---
-
-Feel free to customize this README according to your project's structure, details, and specific information. Good luck with your cybersecurity software projects!
-
 
