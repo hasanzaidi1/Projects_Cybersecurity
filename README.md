@@ -33,17 +33,17 @@ Encryption and decryption of a given message
 Handling ASCII encoding and decoding
 Public and private key calculation
 
-### Usage
+## Usage
 
 To use this program, ensure you have Rust and Cargo installed. Simply clone the repository and run the program:
 
-  # Clone the repository
+  #### Clone the repository
   git clone https://github.com/your_username/rsa-encryption-rust.git
   
-  # Navigate to the project directory
+  #### Navigate to the project directory
   cd rsa-encryption-rust
   
-  # Run the program using Cargo
+  #### Run the program using Cargo
   cargo run
 
 
