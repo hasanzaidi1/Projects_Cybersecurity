@@ -27,11 +27,11 @@ It generates random prime numbers, calculates public and private keys, and encry
 
 ### Features
 
-Prime number generation\m
-Modular exponentiation
-Encryption and decryption of a given message
-Handling ASCII encoding and decoding
-Public and private key calculation
+*Prime number generation
+*Modular exponentiation
+*Encryption and decryption of a given message
+*Handling ASCII encoding and decoding
+*Public and private key calculation
 
 ## Usage
 
