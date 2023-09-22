@@ -27,7 +27,7 @@ It generates random prime numbers, calculates public and private keys, and encry
 
 ### Features
 
-Prime number generation
+Prime number generation\m
 Modular exponentiation
 Encryption and decryption of a given message
 Handling ASCII encoding and decoding
@@ -38,7 +38,7 @@ Public and private key calculation
 To use this program, ensure you have Rust and Cargo installed. Simply clone the repository and run the program:
 
   #### Clone the repository
-  git clone https://github.com/your_username/rsa-encryption-rust.git
+  git clone https://github.com/hasanzaid1/Projects_Cybersecurity.git
   
   #### Navigate to the project directory
   cd rsa-encryption-rust
