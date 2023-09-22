@@ -29,14 +29,14 @@ Public and private key calculation<br>
 
 To use this program, ensure you have Rust and Cargo installed. Simply clone the repository and run the program:
 
-  #### Clone the repository
-  git clone https://github.com/hasanzaid1/RSA_encryption.git
+  >#### Clone the repository
+  >git clone https://github.com/hasanzaid1/RSA_encryption.git
   
-  #### Navigate to the project directory
-  cd rsa-encryption-rust
+  >#### Navigate to the project directory
+  >cd rsa-encryption-rust
   
-  #### Run the program using Cargo
-  cargo run
+  >#### Run the program using Cargo
+  >cargo run
 
 
 
