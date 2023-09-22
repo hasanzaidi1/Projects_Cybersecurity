@@ -33,7 +33,7 @@ Encryption and decryption of a given message<br>
 Handling ASCII encoding and decoding<br>
 Public and private key calculation<br>
 
-## Usage
+### Usage
 
 To use this program, ensure you have Rust and Cargo installed. Simply clone the repository and run the program:
 
