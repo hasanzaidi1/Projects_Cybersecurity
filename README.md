@@ -1,7 +1,6 @@
 
 # Securing The Message 
 
-This repository contains cybersecurity software projects implemented in Rust.
 
 ## Table of Contents
 
